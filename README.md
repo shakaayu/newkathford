@@ -1,2 +1,2 @@
 # newkathford
-third semester project in php. This project is a website of a restaurant called Vintage.
+This is our third semester project in core PhP. This project is a website of a restaurant called Vintage.
